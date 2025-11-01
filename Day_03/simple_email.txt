@@ -1,0 +1,585 @@
+Kyaw Khine <c0ff33py@gmail.com>
+Weekly Coursera Support & Community Digest for Google Cybersecurity
+Community
+1 message
+Coursera Community <noreply@coursera.org> Mon, Oct 27, 2025 at 3:12 AM
+To: "c0ff33py@gmail.com" <c0ff33py@gmail.com>
+Weekly Digest for Google Cybersecurity Community (Private)
+October 19, 2025 — October 26, 2025
+ChynaBee
+I have just concluded Course 4, my first journey into the world of SQL and databases. Quite interesting, but i
+would need all the information to help me practice more
+Saturday, October 25, 2025 10:06 PM Comment
+Gbolex asked a question.
+how do i create my portfolio, i just finished the first course
+Saturday, October 25, 2025 1:40 PM Answer
+Jockems Daniel-San
+Gbolex, I believe module 4 within Course 1 provide guidelines on how to start building a
+Portfolio. Look for: create a cybersecurity portfolio.
+Saturday, October 25, 2025 5:27 PM
+JasimBaloch asked a question.
+Can I get a job after completing four courses?
+Saturday, October 25, 2025 10:52 AM Answer
+Jockems Daniel-San
+That is an interesting question. I will say "maybe". Depending on what you bring on the table
+(your background) and what companies are looking for.
+Saturday, October 25, 2025 5:36 PM
+Joey2Fish
+What is the best way to prepare for the CompTIA Security+ exam?
+Saturday, October 25, 2025 5:10 AM Comment
+User17614051786892153070 likes this.
+Shawn M
+Linux and SQL module was definitely a lot of new information. Did anyone else find it a bit overwhelming at
+times?
+Saturday, October 25, 2025 5:09 AM Comment
+Show All Comments
+User16573754802298106233
+I'm about to start this one next! How long did it take you to finish it? I might draw it out a bit in
+order not to get overwhelmed.
+Saturday, October 25, 2025 5:28 AM
+Jockems Daniel-San
+Hey Shawn, I am still on course 3 and I will be able to provide my perspective after completing
+that course. I have dealt with commend lines before in (CCNA courses) and self taught myself
+… More
+Saturday, October 25, 2025 5:20 PM
+11/2/25, 5:36 AM Gmail - Weekly Coursera Support & Community Digest for Google Cybersecurity Community
+https://mail.google.com/mail/u/0/?ik=8b494cf939&view=pt&search=all&permthid=thread-f:1847078537936359133&simpl=msg-f:1847078537936359133 1/12
+User17509099091211923681
+I really did enjoyed the sessions with Linux and SQL course. It was very practical.
+Saturday, October 25, 2025 9:16 PM
+richard roy
+hey everyone,
+im reaching out to the community to hear from others in their cyber journey. id like to know what brought you
+all here, what technologies interest you, what curiosities drew
+… More
+Saturday, October 25, 2025 5:08 AM Comment
+Jockems Daniel-San likes this.
+Sean22
+Just finished Course 3! So far, I've enjoyed the activities in this course the most compared to the first two
+courses. Being able to experience a bit of what a cybersecurity analyst does
+… More
+Saturday, October 25, 2025 12:25 AM Comment
+richard roy and Legend-JC like this.
+richard roy
+good job keep up the good work and that momentum! im doing course 3 now on module 3, loving
+the fundamentals so far and the resources materials. im interested in hearing what you find
+interesting
+… More
+Saturday, October 25, 2025 4:39 AM
+Liz_04
+I'm excited to share that I've completed course 6 Detection and Response. I enjoyed the deep dive on log
+files, the use of Suricata, Splunk/Google SecOps, and more. I will definitely be
+… More
+Friday, October 24, 2025 9:39 PM Comment
+richard roy, Legend-JC, and User17598050348097991398 like this.
+richard roy
+congrats finishing course 6!! thats awesome. what interests you about cyber? how did you land
+here? what drew you in?
+Saturday, October 25, 2025 4:40 AM
+AbdulRahman
+I’m excited to share that I’ve completed the second course of the Google Cybersecurity Certificate on
+Coursera “Play It Safe: Manage Security Risks.”
+Friday, October 24, 2025 8:29 PM Comment
+User17377982613043342148, User17614528158083728632, AbdulRahman, and 2 others like this.
+richard roy
+awesome job completing the course, how has your experience been so far? what was your path
+into cybersecurity as a career or interest? what brought you here?
+Saturday, October 25, 2025 4:41 AM
+AbdulRahman
+Thanks, Richard!
+It’s been a great learning experience so far. I got into cybersecurity because I’m really interested
+in how to protect systems and data — and I’m excited to keep learning
+… More
+Saturday, October 25, 2025 8:22 PM
+corey ekern
+i just completed course 3 i am so excited to do this and cant wait to learn more
+Friday, October 24, 2025 6:18 PM Comment
+11/2/25, 5:36 AM Gmail - Weekly Coursera Support & Community Digest for Google Cybersecurity Community
+https://mail.google.com/mail/u/0/?ik=8b494cf939&view=pt&search=all&permthid=thread-f:1847078537936359133&simpl=msg-f:1847078537936359133 2/12
+Legend-JC, Sum-24, and User1761360933423129109 like this.
+Robino
+I just completed Course 3, Connect and Protect: Networks and Network Security. I fell behind a few weeks
+and now I am playing catchup.
+Friday, October 24, 2025 5:19 PM Comment
+User17614114943787106898, User17598050348097991398, and 2 others like this.
+richard roy
+congrats on completing course 3! im close to finishing this myself, on module 3 right now. so far
+its been wonderful. i am curious what interests you most in cyber? what brought you here?
+… More
+Saturday, October 25, 2025 4:45 AM
+AjahSoft
+I just completed course 2. Starting Course 3 tomorrow.
+Sunday, October 26, 2025 1:52 AM
+User17161814208179622099
+I'm very excited to dive into the rest of this course. Cybersecurity is an important field that protects networks,
+assets, and data. Knowing the types of attacks that occur, as well as identifying
+… More
+Friday, October 24, 2025 3:32 PM Comment
+Annie H likes this.
+Annie H
+Welcome to this Community @User17161814208179622099! We are happy to have you here
+and hope that you find this Professional Certificate helpful for your career development! As a kind
+suggestion,
+… More
+Friday, October 24, 2025 3:58 PM
+User17561476596287322435
+Hey so, I finished the course. All 8 modules! It was great, I feel much more enlightened to what
+Cybersecurity is. I also developed a lot of discipline throughout the course. I can take
+… More
+Friday, October 24, 2025 3:20 PM Comment
+Robino and Annie H like this.
+Annie H
+Congratulations on the completion of your Google Cybersecurity Professional Certificate,
+@User17561476596287322435! We are happy to have you here and wish you the best in your
+future learning
+… More
+Friday, October 24, 2025 3:57 PM
+User17363524356861091856
+just finished the foundation of cyber security looking forward to learn more and be a guru in this field.
+Friday, October 24, 2025 3:18 PM Comment
+Annie H likes this.
+Annie H
+Hello and congratulations on the completion of your course, @User17363524356861091856!
+We are happy to have you here and hope that you continue enjoying your courses a lot! As a
+kind suggestion,
+… More
+Friday, October 24, 2025 3:57 PM
+Tono
+Congrats! I just completed the foundations as well and continuing on.
+Saturday, October 25, 2025 3:14 PM
+11/2/25, 5:36 AM Gmail - Weekly Coursera Support & Community Digest for Google Cybersecurity Community
+https://mail.google.com/mail/u/0/?ik=8b494cf939&view=pt&search=all&permthid=thread-f:1847078537936359133&simpl=msg-f:1847078537936359133 3/12
+User17320408984565076274 asked a question.
+In this Linux course, why is the correct answer "The user and group owner types have incorrect
+write permissions?"
+Why not "Just the group"?
+Which owner type has the incorrect write permissions?
+Just the group
+The user and the group
+Just the user
+Answer: The user and group owner types have incorrect write permissions.
+1
+Friday, October 24, 2025 3:12 PM Answer
+User17600154957789296056 and Annie H like this.
+User17602088829163634995
+I can'tnget the lab. I get Google development.
+Friday, October 24, 2025 4:26 PM
+richard roy
+hey a quick tip for you, the drwxr-xr-x is the key indication to what you are looking for. the d at the
+beginning of a line indicates a directory and a (-) at the beginning of a line indicates
+… More
+Edited Saturday, October 25, 2025 4:53 AM
+User17562986373713806390
+Hi all!
+Just finished course 7: Automate Cybersecurity Tasks with Python
+Very challenging and also very rewarding.
+Thank you Google!
+Friday, October 24, 2025 3:07 PM Comment
+Robino, User17499263565722555597, and Annie H like this.
+Annie H
+Hello and congratulations on the completion of your course, @User17562986373713806390!
+We are happy to have you here and hope that you continue enjoying your courses a lot! As a
+kind suggestion,
+… More
+Friday, October 24, 2025 3:24 PM
+User17611432262183042755
+Acabei de concluir o primeiro curso, "Fundamentos da Cibersegurança", do certificado de cyber segurança
+do Google
+Alguém têm recomendações de como devo estudar e abordar os restantes cursos
+… More
+Friday, October 24, 2025 3:03 PM Comment
+Annie H likes this.
+Annie H
+Olá e parabéns pela conclusão do seu curso @User17611432262183042755! Estamos felizes
+em tê-lo aqui e esperamos que continue gostando muito dos seus cursos! Como sugestão, você
+pode conferir
+… More
+Friday, October 24, 2025 3:24 PM
+User17613427331836329179
+Hi, I’m Liz and am new to the community and looking forward to it!
+Liz
+11/2/25, 5:36 AM Gmail - Weekly Coursera Support & Community Digest for Google Cybersecurity Community
+https://mail.google.com/mail/u/0/?ik=8b494cf939&view=pt&search=all&permthid=thread-f:1847078537936359133&simpl=msg-f:1847078537936359133 4/12
+Friday, October 24, 2025 2:57 PM Comment
+User17499263565722555597 and Annie H like this.
+Annie H
+Welcome to this Community, @User17613427331836329179! We are happy to have you here!
+As a kind suggestion, you can check out this step-by-step guide to get your community profile up
+to
+… More
+Friday, October 24, 2025 3:24 PM
+Collins Ogbeide
+Hey fam!
+Just wrapped up the Play It Safe: Manage Security Risks course from the Google Cybersecurity
+Certificate 🎉
+This one really opened my eyes to how security teams handle real-life threats
+… More
+Edited Friday, October 24, 2025 2:58 PM Comment
+Annie H likes this.
+Annie H
+Hello and congratulations on the completion of your course, @Collins Ogbeide! We are happy
+to have you here and hope that you continue enjoying your courses a lot!
+Good luck and happy
+… More
+Friday, October 24, 2025 3:23 PM
+Collins Ogbeide
+Thank you so much! 🙏
+@Annie H I really appreciate the kind words and encouragement. Completing this course has
+been such a rewarding experience, I’ve learned so much about managing security
+… More
+Friday, October 24, 2025 3:35 PM
+Collins Ogbeide
+I’m beyond excited to share another major step in my cybersecurity journey completing the Play
+It Safe: Manage Security Risks course under the Google Cybersecurity Certificate program!
+🎉
+… More
+Friday, October 24, 2025 3:50 PM
+User17610656690695500690
+1. course completed:-)
+Friday, October 24, 2025 2:06 PM Comment
+Annie H likes this.
+Annie H
+Hello and congratulations on the completion of your course, @User17610656690695500690!
+We are happy to have you here and hope that you continue enjoying your courses a lot! As a
+kind suggestion,
+… More
+Friday, October 24, 2025 3:23 PM
+User17612480718738703382
+Hi, just finished the first course "the intro" still theoretical but looks interesting. I am not sure if obtaining this
+certificate would help me to get a job in the field in Germany. To
+… More
+Friday, October 24, 2025 1:35 PM Comment
+Annie H likes this.
+Annie H
+Hello and congratulations on the completion of your course, @User17612480718738703382!
+We are happy to have you here and hope that you continue enjoying your courses a lot! As a
+kind suggestion,
+11/2/25, 5:36 AM Gmail - Weekly Coursera Support & Community Digest for Google Cybersecurity Community
+https://mail.google.com/mail/u/0/?ik=8b494cf939&view=pt&search=all&permthid=thread-f:1847078537936359133&simpl=msg-f:1847078537936359133 5/12
+… More
+Friday, October 24, 2025 3:22 PM
+shan101
+I have just completed assets, threats, and vulnerabilities course. It was very informative excited to continue
+on with my this course.
+Friday, October 24, 2025 1:32 PM Comment
+Annie H likes this.
+Annie H
+Hello and congratulations on the completion of your course, @shan101! We are happy to have
+you here and hope that you continue enjoying your courses a lot!
+Good luck and happy learning!
+… More
+Friday, October 24, 2025 3:22 PM
+Jesus G.
+I'm happy to share that I've just finished Google Cybersecurity Professional Certificate!
+Friday, October 24, 2025 1:31 PM Comment
+Annie H likes this.
+Annie H
+Congratulations on the completion of your Google Cybersecurity Professional Certificate,
+@Jesus G.! We are happy to have you here and wish you the best in your future learning
+projects!
+… More
+Friday, October 24, 2025 3:22 PM
+CHUKA917
+JUST CONCLUDED COURSE 4, SO EXCITED TO MOVING AHEAD
+Friday, October 24, 2025 1:29 PM Comment
+Annie H likes this.
+Annie H
+Hello and congratulations on the completion of your course, @CHUKA917! We are happy to
+have you here and hope that you continue enjoying your courses a lot!
+Good luck and happy learning!
+… More
+Friday, October 24, 2025 3:21 PM
+User17518228943862331914
+I just completed the “Tools of the Trade: Linux and SQL” portion of the certification process.
+This module really strengthened my technical foundation — from navigating the Linux command
+… More
+Friday, October 24, 2025 1:18 PM Comment
+Annie H, Hamomo, and Collins Ogbeide like this.
+Hamomo
+Keep at it! I found that topic a little frustrating but also enjoyable in a way. I cant wait to practice
+some more with Linux :D
+Friday, October 24, 2025 2:34 PM
+Adam Gonçalves
+Hello everyone, I'm Adam, new to the community and looking forward to learn and connect with other
+people. I am excited to be here and contribute however I can!
+Friday, October 24, 2025 12:30 PM Comment
+Annie H and Collins Ogbeide like this.
+Annie H
+Welcome to this Community @Adam Gonçalves! We are happy to have you here and hope that
+you enjoy your courses a lot and find this Professional Certificate helpful for your career
+11/2/25, 5:36 AM Gmail - Weekly Coursera Support & Community Digest for Google Cybersecurity Community
+https://mail.google.com/mail/u/0/?ik=8b494cf939&view=pt&search=all&permthid=thread-f:1847078537936359133&simpl=msg-f:1847078537936359133 6/12
+development!
+… More
+Friday, October 24, 2025 3:21 PM
+User17613319720961290802
+Hello, I’m new in this but I have been enjoying so much getting in this world, nice to meet yall.
+Friday, October 24, 2025 11:54 AM Comment
+Eugeniacovali and Annie H like this.
+Annie H
+Welcome to this Community @User17613319720961290802! We are happy to have you here!
+As a kind suggestion, you can check out this step-by-step guide to get your community profile up
+to date.
+… More
+Friday, October 24, 2025 12:00 PM
+User17570258370475816538
+Wow, learning a lot in Course 5. I've spent many years in IT roles but the security aspects have evolved so
+much! The distinctions in the types of cross site scripting I found rather puzzling
+… More
+Friday, October 24, 2025 11:37 AM Comment
+Eugeniacovali and Annie H like this.
+Annie H
+Congratulations on the completion of your course, and thanks for sharing what you've been
+learning during the course @User17570258370475816538! We are happy to have you here and
+hope that
+… More
+Friday, October 24, 2025 11:59 AM
+Ayodeji.ng
+Hi,
+My name is Ayodeji. I am excited to be here. i started this course today, 24 Oct 2025 the beginning of a
+journey to change my career. I hope to find like minds to help me on this journey.
+… More
+Friday, October 24, 2025 11:03 AM Comment
+User17593461968718323133 and Annie H like this.
+Annie H
+Welcome to this Community @Ayodeji.ng! We are happy to have you here and hope that you
+enjoy your courses a lot and find this Professional Certificate helpful for your career
+development!
+… More
+Friday, October 24, 2025 11:26 AM
+leor1vera
+Hello, I'm new here. I haven't learned how to upload a portfolio to a GiftHub repository yet...
+Friday, October 24, 2025 9:52 AM Comment
+Annie H likes this.
+Annie H
+Welcome to this Community @leor1vera! We are happy to have you here and hope that you
+enjoy your courses a lot and find this Professional Certificate helpful for your career
+development!
+… More
+Friday, October 24, 2025 10:30 AM
+Detek
+Hey! Welcome! Lots of great Youtube videos for learning Github! There is a ton of great
+resources out there!
+Friday, October 24, 2025 1:21 PM
+11/2/25, 5:36 AM Gmail - Weekly Coursera Support & Community Digest for Google Cybersecurity Community
+https://mail.google.com/mail/u/0/?ik=8b494cf939&view=pt&search=all&permthid=thread-f:1847078537936359133&simpl=msg-f:1847078537936359133 7/12
+Anne L. Group Moderator
+💬 Discussion Prompt: The Case of the Malicious Ad
+🔎 @Google Cybersecurity Community (Private) Imagine this scenario: A company you work for has
+experienced a massive data breach. The attackers exploited
+… More
+Friday, October 24, 2025 9:19 AM Comment
+Annie H likes this.
+Felix_Felicis
+Hi everyone, just wanted to let you know that I just completed the 2. course - Play it safe: Manage security
+risks!
+Looking forward to the new course.
+Friday, October 24, 2025 9:19 AM Comment
+Annie H likes this.
+Annie H
+Hello and congratulations on the completion of your course, @Felix_Felicis! We are happy to
+have you here and hope that you continue enjoying your courses a lot!
+Good luck and happy learning!
+… More
+Friday, October 24, 2025 9:46 AM
+Muhammad_Ali
+Hello Everyone I hope everything sounds good. Recently finished the cybersecurity Course 3 Connect and
+Protect: Networks and Network Security the instructor concepts were very precise and
+… More
+Friday, October 24, 2025 8:25 AM Comment
+Felix_Felicis, Annie H, and Majiii like this.
+Majiii
+Mashallah! Keep your journey going and tell me, when did you start your cybersecurity journey?
+Friday, October 24, 2025 8:44 AM
+Muhammad_Ali
+Thankyou
+Friday, October 24, 2025 8:50 AM
+Ankit Dhaka
+I am excited to share with you all that i have Completed My Course One : Foundation of Cyber Security
+Edited Friday, October 24, 2025 4:25 AM Comment
+praffulsoni07, Felix_Felicis, Annie H, and 3 others like this.
+User17575020339394700623
+I am thrilled to share that i have just completed my 1st course : Foundation of Cyber Security.....
+Such a great experience!
+Friday, October 24, 2025 5:45 AM
+User17586117647755657517
+Great stuff!😎 I too have just completed the same course.😁
+Friday, October 24, 2025 8:19 AM
+User17613049986262471304
+Hello, I'm Kat. Enjoying this course so far.
+Friday, October 24, 2025 4:24 AM Comment
+Felix_Felicis and Annie H like this.
+Annie H
+Welcome to this Community @User17613049986262471304! We are happy to have you here!
+As a kind suggestion, you can check out this step-by-step guide to get your community profile up
+to date.
+11/2/25, 5:36 AM Gmail - Weekly Coursera Support & Community Digest for Google Cybersecurity Community
+https://mail.google.com/mail/u/0/?ik=8b494cf939&view=pt&search=all&permthid=thread-f:1847078537936359133&simpl=msg-f:1847078537936359133 8/12
+… More
+Friday, October 24, 2025 9:44 AM
+Handsomejfp
+Hello world, this is a new day for me and a new chapter...I am Francois and today I am starting my
+Cybersecurity Journey, wish me luck! :)
+Friday, October 24, 2025 4:05 AM Comment
+Eugeniacovali, User16854414345009561046, and 2 others like this.
+Felix_Felicis
+Good luck!
+Friday, October 24, 2025 9:22 AM
+Annie H
+Welcome to this Community and thank you for sharing a little bit about yourself with us,
+@Handsomejfp! We are happy to have you here and hope that you enjoy your courses a lot and
+find
+… More
+Friday, October 24, 2025 9:44 AM
+User17551796300902730082
+Hi Guys,
+I'm new here and i just finished assets-threats-and-vulnerabilities
+I am interested in receiving more ideas on how to be job-ready after completion.
+Friday, October 24, 2025 3:59 AM Comment
+pseidon, Felix_Felicis, and Annie H like this.
+Annie H
+Hello and congratulations on the completion of your course, @User17551796300902730082!
+We are happy to have you here and hope that you continue enjoying your courses a lot! As a
+kind suggestion,
+… More
+Friday, October 24, 2025 9:43 AM
+User17349385678682097757 asked a question.
+guys, post this course through coursera how many of you got jon in Security feiled ? and did you
+certified from Google separetly ?
+Friday, October 24, 2025 2:42 AM Answer
+Eugeniacovali and Annie H like this.
+User17606936404205788118
+Hi All,
+i have completed my google foundation level cybersecurity course, excited to learn more in this journey.
+Thanks to couch and team.
+Friday, October 24, 2025 12:31 AM Comment
+Eugeniacovali, Felix_Felicis, and Annie H like this.
+Annie H
+Hello and congratulations on the completion of your course, @User17606936404205788118!
+We are happy to have you here and hope that you continue enjoying your courses a lot! As a
+kind suggestion,
+… More
+Friday, October 24, 2025 9:43 AM
+User17355925715514030485
+just finished sound of alarm : detection and response. tcpdump suricata splunk and how to journal events.
+where can one practice more. please i would like suggestions
+Thursday, October 23, 2025 10:04 PM Comment
+Felix_Felicis and Annie H like this.
+11/2/25, 5:36 AM Gmail - Weekly Coursera Support & Community Digest for Google Cybersecurity Community
+https://mail.google.com/mail/u/0/?ik=8b494cf939&view=pt&search=all&permthid=thread-f:1847078537936359133&simpl=msg-f:1847078537936359133 9/12
+Annie H
+Hello and congratulations on the completion of your course, @User17355925715514030485!
+We are happy to have you here and hope that you continue enjoying your courses a lot! As a
+kind suggestion,
+… More
+Friday, October 24, 2025 9:42 AM
+ReelCurrency
+Red team or blue team?
+1: Red Team
+2: Blue Team
+3: Purple team ;)
+Vote · 8 votes
+Thursday, October 23, 2025 9:44 PM Comment
+Annie H likes this.
+NotThe1
+Just finished the first course!! I'm super excited about the journey!!!!
+Thursday, October 23, 2025 9:22 PM Comment
+Eugeniacovali and Annie H like this.
+Annie H
+Hello and congratulations on the completion of your course, @NotThe1! We are happy to have
+you here and hope that you continue enjoying your courses a lot!
+Good luck and happy learning!
+… More
+Friday, October 24, 2025 9:42 AM
+CanelaFox
+IDS labs have been my favorite in this course. Blissfully shocked at how much I enjoyed the tasks.
+Thursday, October 23, 2025 8:45 PM Comment
+Annie H, Ibrahim Abubakar, and NotThe1 like this.
+NotThe1
+Im still early in the program but Im looking forward to the IDS labs segment
+Thursday, October 23, 2025 9:01 PM
+ChalaquitoNavi
+HEY PEOPLE!!! IM ALMOST DONE WITH THE COURSE I CAN NOT BE MORE HAPPY AND THANKFUL
+!!!
+Thursday, October 23, 2025 7:18 PM Comment
+Felix_Felicis, Annie H, Ibrahim Abubakar, and 5 others like this.
+User17039456771617211317
+Jorney Study
+HELLLO Every One Iam almost Done Iam so proud by my self
+Thursday, October 23, 2025 7:31 PM
+NotThe1
+Congrats
+Thursday, October 23, 2025 9:01 PM
+User17520732729963083264
+Im done the course 7! It's amazing!
+Thursday, October 23, 2025 7:16 PM Comment
+Eugeniacovali, Felix_Felicis, Annie H, and 3 others like this.
+11/2/25, 5:36 AM Gmail - Weekly Coursera Support & Community Digest for Google Cybersecurity Community
+https://mail.google.com/mail/u/0/?ik=8b494cf939&view=pt&search=all&permthid=thread-f:1847078537936359133&simpl=msg-f:1847078537936359133 10/12
+CybSidi
+How is it so far?
+Thursday, October 23, 2025 7:41 PM
+NotThe1
+Congrats!!
+Thursday, October 23, 2025 9:01 PM
+Felix_Felicis
+Oh, I look forward to that one! Congrats! You're doing great!
+Friday, October 24, 2025 9:23 AM
+User17612718326966501191
+hello everyone, glad to join this awesome community of of like minded people trying to protect people and
+their data
+Thursday, October 23, 2025 7:12 PM Comment
+Eugeniacovali, Felix_Felicis, and Annie H like this.
+Annie H
+Welcome to this Community @User17612718326966501191! We are happy to have you here!
+As a kind suggestion, you can check out this step-by-step guide to get your community profile up
+to date.
+… More
+Friday, October 24, 2025 9:42 AM
+Lemon and banana smoothie
+Hello All my name is Sheldon and I am very interested in a career in cybersecurity. I have zero experience
+and am starting out with this certificate course and I have recently completed
+… More
+Thursday, October 23, 2025 7:05 PM Comment
+Eugeniacovali likes this.
+Annie H
+Welcome to this Community and congratulations on the completion of your course, @Lemon
+and banana smoothie! We are happy to have you here and hope that you continue enjoying
+your courses
+… More
+Friday, October 24, 2025 9:33 AM
+GabrielVB
+Excited to add Cybersecurity to my bag of tricks while I try to make the jump into IT.
+Thursday, October 23, 2025 6:37 PM Comment
+Eugeniacovali and Annie H like this.
+Annie H
+Welcome to this Community @GabrielVB! We are happy to have you here and hope that you
+enjoy your courses a lot! 😊
+Friday, October 24, 2025 9:32 AM
+Fivensics
+I'm way out of my comfort-zone here, both posting comments and learning about cybersecurity, but
+something about this feels right. Good luck to all of you. Good luck to all of us.
+Thursday, October 23, 2025 6:19 PM Comment
+Annie H likes this.
+Annie H
+Welcome to this Community and thank you for sharing a little bit about yourself with us,
+@Fivensics! We are happy to have you here and hope that you enjoy your courses a lot and
+find this
+11/2/25, 5:36 AM Gmail - Weekly Coursera Support & Community Digest for Google Cybersecurity Community
+https://mail.google.com/mail/u/0/?ik=8b494cf939&view=pt&search=all&permthid=thread-f:1847078537936359133&simpl=msg-f:1847078537936359133 11/12
+… More
+Friday, October 24, 2025 9:32 AM
+youssef maged asked a question.
+Hello, I don't know the comparison of the could hosted , self hosted ,and hybrid and cloud native ??
+I don't know the comparison of the could hosted , self hosted ,and hybrid and cloud native ??
+Edited Thursday, October 23, 2025 5:56 PM Answer
+Annie H likes this.
+NotThe1
+Man I use AI ALOT!! I would just ask grok
+Thursday, October 23, 2025 9:03 PM
+There's more to see. Click here!
+This email was sent to members of Google Cybersecurity Community.
+To change or turn off Coursera Support & Community emails, use your registered username to log in.
+Coursera, Inc. 2440 West El Camino Real, Suite 500, Mountain View, CA 94040
+11/2/25, 5:36 AM Gmail - Weekly Coursera Support & Community Digest for Google Cybersecurity Community
+https://mail.google.com/mail/u/0/?ik=8b494cf939&view=pt&search=all&permthid=thread-f:1847078537936359133&simpl=msg-f:1847078537936359133 12/12
