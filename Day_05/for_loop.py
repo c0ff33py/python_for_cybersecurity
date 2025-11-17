@@ -13,3 +13,7 @@ so, between 1 and 7 value must be 1, 3, 5
 
 it will print 3,9,5
 '''
+
+for number in range(2, 8):
+    print(number ** 2)
+
